@@ -7,5 +7,5 @@ package com.msb;
  * @version: 1.0
  */
 public class Person1 {
-
+    //
 }
